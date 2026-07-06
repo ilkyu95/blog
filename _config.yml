@@ -1,0 +1,20 @@
+title: Ilkyu's Blog
+description: >-
+  Notes and posts from Ilkyu.
+baseurl: "/blog"
+url: "https://ilkyu95.github.io"
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+
+minima:
+  skin: classic
+
+markdown: kramdown
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
